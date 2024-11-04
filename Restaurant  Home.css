@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    padding-left: 500px;
+    padding-top: 160px;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.753);
+    text-transform: uppercase;
+    font-family: cursive;
+}
+body{
+    background-image: url(IMAGE/pizza\ 1\ \(1\).jpg);
+    background-repeat: repeat;
+    background-size: cover;
+}
+.nav-list{
+    display: flex;
+    background-color: rgba(41, 35, 35, 0.719);
+}
+li{
+    list-style-type: none;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+span{ 
+    color: white;
+    padding-left: 140px;
+}
+.menu{
+    color: white;
+    padding-left: 565px;
+}
+b{
+    background-color: black;
+    font-size: 30px;
+}
+.time{
+    padding-top: 250px;
+    font-size: 20px;
+    color: cornsilk;
+}
+samp{
+    background-color: black;
+}

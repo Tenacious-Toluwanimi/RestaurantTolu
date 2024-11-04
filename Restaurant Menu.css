@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(109, 94, 74);
+}
+.red{
+    height: 414.49px;
+    width: 1000px;
+    padding-left: 360px;
+}
+.nav-list{
+    display: flex;
+    background-color: rgba(41, 35, 35, 0.719);
+}
+li{
+    list-style-type: none;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

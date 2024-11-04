@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+}
+.red{
+    height: 414.49px;
+    width: 1000px;
+    padding-left: 360px;
+}
+.nav-list{
+    display: flex;
+    background-color: rgba(41, 35, 35, 0.719);
+}
+li{
+    list-style-type: none;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    color: white;
+}
+.logo{
+    font-family: cursive;
+    padding-left: 600px;
+    padding-bottom: 40px;
+}
+p{
+    padding-bottom: 20px;
+    padding-left: 355px;
+}
